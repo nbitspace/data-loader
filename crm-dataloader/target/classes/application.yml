@@ -1,0 +1,16 @@
+salesforce:
+  username: vaishanth001-r0zt@force.com
+  password: 9566316655Vai.
+  consumer-key: 3MVG9Ijq7vc89psosLjdonvBZg3Co4CudeO82DDODo.3mD1mw3bDWPQIu_JQJOJ4ua9t6GKmw_yertOte7gyz
+  consumer-secret: 7B88DD46F28F982FBFA50C837D11B9C4174909DD818CD890D9F3FBB28EA531D4
+
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/salesforce_crm
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  config:
+    name: application
+
